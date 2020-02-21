@@ -1,2 +1,2 @@
 # whether-app 
-https://yavuzugurtas.github.io/whether-app/ LIVE
+https://yavuzugurtas.github.io/weather-app/ LIVE
